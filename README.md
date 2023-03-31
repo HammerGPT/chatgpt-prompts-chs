@@ -1,4 +1,5 @@
 # ChatGPT中文咒语(Prompt)大全
+![]( https://visitor-badge.glitch.me/badge?page_id=<HammerGPT/chatgpt-prompts-chs>)
 
 1.0版本根据 [awesome-chatgpt-prompts](https://github.com/lencx/ChatGPT#chatgpt) 仓库prompt.csv进行的中文翻译
 

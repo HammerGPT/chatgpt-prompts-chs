@@ -15,7 +15,8 @@
 <img width="400" height="400" src="https://user-images.githubusercontent.com/90379666/229152822-c7e6c304-a794-41b3-9bd3-6f804f16c767.JPG" />
 
 ## 需要1V1指导可以来知识星球
-<img width="400" height="520" src="https://user-images.githubusercontent.com/90379666/229157533-37418347-b223-4935-a3ee-da238ae9d0fd.JPG" />
+<img width="400" height="520" src="https://user-images.githubusercontent.com/90379666/229191761-ab1257b7-a1f5-4e0c-83f5-e0fbce3bfd3b.JPG" />
+
 
 ## Star History
 

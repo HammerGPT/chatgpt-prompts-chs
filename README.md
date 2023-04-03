@@ -3,7 +3,7 @@
 
 1.0版本根据 [awesome-chatgpt-prompts](https://github.com/lencx/ChatGPT#chatgpt) 仓库prompt.csv进行的中文翻译
 
-当前已更新至1.1版本
+当前已更新至1.1版本，持续原创扩充中文本地化咒语
 ## 需首先安装
 
 `ChatGPT客户端`  [lencx/ChatGPT](https://github.com/lencx/ChatGPT#chatgpt) 

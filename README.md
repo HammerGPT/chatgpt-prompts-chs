@@ -43,10 +43,11 @@
 
 
 ## 鼓励鼓励我T.T
-<img width="400" height="400" src="https://user-images.githubusercontent.com/90379666/229152822-c7e6c304-a794-41b3-9bd3-6f804f16c767.JPG" />
+<img width="200" height="200" src="https://user-images.githubusercontent.com/90379666/229152822-c7e6c304-a794-41b3-9bd3-6f804f16c767.JPG" />
 
-## 需要1V1指导来知识星球
-<img width="400" height="520" src="https://user-images.githubusercontent.com/90379666/229191761-ab1257b7-a1f5-4e0c-83f5-e0fbce3bfd3b.JPG" />
+## 需要使用Prompt训练GPT模型，教程在知识星球
+<img width="200" height="260" src="https://user-images.githubusercontent.com/90379666/231941065-05cf2a40-8e33-4401-89db-cfc220ea883c.JPG" />
+
 
 
 ## Star History
